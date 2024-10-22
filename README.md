@@ -1,1 +1,2 @@
-# Shop-customers-analysis
+# Customer Purchase Behavior Analysis in a Supermarket and Identification of Opportunities to Increase Sales
+The supermarket aims to better understand customer behavior and the factors influencing sales to increase profits and improve the shopping experience. The project’s goal is to identify key trends in customer behavior, segment customers for better personalization of offers, and determine the most profitable products and marketing strategies. The results of the analysis will help optimize sales and loyalty strategies, improve customer service, and better manage the product assortment.
