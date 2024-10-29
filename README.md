@@ -56,19 +56,19 @@ The project leverages several Python libraries for data analysis and visualizati
 Below are some example plots generated during the analysis:
 
 ### 1. 📈 Peak Sales Hours
-![Peak Sales Hours]([https://github.com/your_username/your_repository/blob/main/charts/Peak%20Sales%20Hours.PNG](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Peak%20Sales%20Hours.PNG))
+![Peak Sales Hours](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Peak%20Sales%20Hours.PNG)
 
 ### 2. 🛒 Percentage of Average Spend by Customer Type
-![Percentage of Average Spend by Customer Type]([https://github.com/your_username/your_repository/blob/main/charts/Percentage%20of%20Average%20Spend%20by%20Customer%20Type.PNG](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Percentage%20of%20Average%20Spend%20by%20Customer%20Type.PNG))
+![Percentage of Average Spend by Customer Type](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Percentage%20of%20Average%20Spend%20by%20Customer%20Type.PNG)
 
 ### 3. ⏰ Sales by Hour and Product Category
-![Sales by Hour and Product Category]([https://github.com/your_username/your_repository/blob/main/charts/Sales%20by%20Hour.PNG](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Sales%20by%20Hour.PNG))
+![Sales by Hour and Product Category](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Sales%20by%20Hour.PNG)
 
-### 4. 🌆 Average Rating by Location
-![Average Rating by Location]([https://github.com/your_username/your_repository/blob/main/charts/Average%20Rating%20by%20Location.PNG](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Average%20Rating%20by%20Location.PNG))
+### 4. 🗺️ Average Rating by Location
+![Average Rating by Location](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Average%20Rating%20by%20Location.PNG)
 
 ### 5. 💳 Average Transaction Value by Payment Method
-![Average Transaction Value by Payment Method]([https://github.com/your_username/your_repository/blob/main/charts/Average%20Transaction%20Value.PNG](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Average%20Transaction%20Value.PNG))
+![Average Transaction Value by Payment Method](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/charts/Average%20Transaction%20Value.PNG)
 
 
 ---
