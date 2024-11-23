@@ -1,4 +1,5 @@
-# 🛒 Market Sales Analysis Project
+# [🛒 Market Sales Analysis Project](https://github.com/PatrykPaul/Shop-customers-analysis/blob/main/Market_Sales_Analysis.ipynb)
+
 
 This project analyzes customer behavior and sales trends in a supermarket setting, aiming to uncover insights that can drive profitability, enhance customer satisfaction, and improve inventory and marketing strategies. By examining data such as product categories, payment methods, customer demographics, and sales hours, this analysis identifies key factors that influence customer purchasing decisions.
 
