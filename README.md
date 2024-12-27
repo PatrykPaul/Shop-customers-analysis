@@ -4,6 +4,8 @@
 This project analyzes customer behavior and sales trends in a supermarket setting, aiming to uncover insights that can drive profitability, enhance customer satisfaction, and improve inventory and marketing strategies. By examining data such as product categories, payment methods, customer demographics, and sales hours, this analysis identifies key factors that influence customer purchasing decisions.
 
 The findings offer actionable insights for optimizing store operations, personalizing customer offerings, and strengthening loyalty programs, ultimately supporting the supermarket's business objectives.
+
+
 Link to Dataset : https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
 ---
 
